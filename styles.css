@@ -5,9 +5,13 @@ body{
 	text-align: center;
 	font-size:1.5vw;
 }
+h2 {
+  color: dodgerblue;
+}
+
 h3 {
   
-  
+  color: dodgerblue;
   font-size: 300%;
 
 }
